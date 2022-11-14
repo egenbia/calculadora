@@ -1,0 +1,132 @@
+
+
+.calculadora{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 15px;
+
+}
+
+.botao{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border: none;
+    color: #ffffff;
+    margin: 3px;
+}
+
+
+#resultado{
+    width: 207px;
+    background-color: white;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+}
+
+.wrapper{
+    background-color: #6d436b;
+    height: 100vh;
+}
+
+.ind{
+    margin-top: 10%;
+}
+
+
+#link{
+    color: #ffffff;
+}
+
+.basicas{
+    position:absolute;
+    color: #ffffff;
+    font-size: 8vh;
+    margin-top: 7%;
+    margin-left: 10%;
+}
+
+.bhaskara{
+    position:absolute;
+    color: #ffffff;
+    font-size: 8vh;
+    margin-top: 7%;
+    margin-left: 35%;
+}
+
+.raiz{
+    position:absolute;
+    color: #ffffff;
+    font-size: 8vh;
+    margin-top: 7%;
+    margin-left: 65%;
+}
+
+.areatri{
+    position:absolute;
+    color: #ffffff;
+    font-size: 8vh;
+    margin-top: 20%;
+    margin-left: 15%;
+}
+
+.potencia{
+    position:absolute;
+    color: #ffffff;
+    font-size: 8vh;
+    margin-top: 20%;
+    margin-left: 60%;
+}
+
+.botom{
+    color: #ffffff;
+}
+
+.text1{
+    color: #ffffff;
+}
+
+.text2{
+    color: #ffffff;
+}
+
+.text5{
+    color: #ffffff;
+    margin-top: 0%;
+    margin-left: 40%;
+    
+}
+
+.text6{
+    color: #ffffff;
+    margin-top: 0%;
+    margin-left: 44.7%;
+}
+
+.text7{
+    color: #ffffff;
+    margin-top: 0%;
+    margin-left: 44.4%;
+}
+
+.text8{
+    color: #ffffff;
+    margin-top: 0%;
+    margin-left: 41%;
+}
+
+.text9{
+    color: #ffffff;
+    margin-top: 0%;
+    margin-left: 38%; 
+}
